@@ -1,0 +1,43 @@
+[
+  {
+    "id": "D0kHXaXCM/o95uyCA3YgToTCEQI=",
+    "mf": "C9H12O",
+    "idCodeHash": "d3b6561fd917797a6ed59629a70351bb",
+    "file": "./Moodle-NMR-oc3la/M1.nmrium.zip",
+    "title": "M1",
+    "selected": true,
+    "idCode": "deTH@@Rfuunh@J@@"
+  },
+  {
+    "id": "/3AgFQ6SYWxYCFdPmz1mSEPKLcg=",
+    "mf": "C11H14O2",
+    "idCodeHash": "041c76406ba3a534ddbfe3ed861fe1e9",
+    "file": "./Moodle-NMR-oc3la/M2.nmrium.zip",
+    "title": "M2",
+    "idCode": "dklD@@UIfuu^Eh@Jh@@"
+  },
+  {
+    "id": "nhbEc3goZ+KFgIaVXTw6ZhiIvks=",
+    "mf": "C9H10O",
+    "idCodeHash": "89b028219b311462237df915fd039695",
+    "file": "./Moodle-NMR-oc3la/M3.nmrium.zip",
+    "title": "M3",
+    "idCode": "deTH@@RYe\\YZB@@@"
+  },
+  {
+    "id": "e8w1/SvvZDoOBtPVnXB7C7R0IcM=",
+    "mf": "C5H10O2",
+    "idCodeHash": "eb47bc58f18348f072fa6872ca0e0f78",
+    "file": "./Moodle-NMR-oc3la/M4.nmrium.zip",
+    "title": "M4",
+    "idCode": "gNp`@dfUZj@@"
+  },
+  {
+    "id": "U22pbjteM7vuLu6PW3HGuu4Qomo=",
+    "mf": "C6H6O2",
+    "idCodeHash": "3c880611f2dcba5797adf4a0cbaa1134",
+    "file": "./Moodle-NMR-oc3la/M5.nmrium.zip",
+    "title": "M5",
+    "idCode": "daDD@@yIe^fZZX@@"
+  }
+]
